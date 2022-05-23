@@ -12,7 +12,7 @@ About me:
 - Big fan of the show Barry (If you can't already tell!)
 - Hoping to join a Red Team soon and learn more about malware development
 
-Check out the tools I have released:
+
 
 <!---
 Summertime2022/Summertime2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
