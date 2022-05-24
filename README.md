@@ -2,7 +2,7 @@
 <h1 align="center"><b>Summertime2022</b></h1>
 <h3 align="center">Security Researcher | Penetration Tester | OSCP | OSEP | CISSP </h3>
 
-👋 Hey there! I am researcher and penetration tester @BHinfoSecurity 👋
+👋 Hey there! I am a security researcher and penetration tester! 👋
 
 ✨ This is my first go at this GitHub thing! Be Nice! ✨
 
